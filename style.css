@@ -1,0 +1,22 @@
+body {
+	font-size: 16px;
+    color: #000;
+    font-family: "Arial";
+    line-height: 1.2;
+    min-width: 320px;
+}
+div {
+	font-size: 16px;
+	padding: 16px 16px 16px 16px;
+	margin: 16px 16px 16px 16px;
+	background: #D3D3D3;
+    color: #000;
+    font-family: "Open Sans",X-LocaleSpecific,sans-serif;
+    line-height: 1.2;
+    width: 360px;
+}
+.first:first-letter {
+    font-family: "Times New Roman", Times, serif; /* Гарнитура шрифта первой буквы */
+    font-size: 200%; /* Размер шрифта первого символа */
+    color: red; /* Красный цвет текста */
+}
