@@ -1,9 +1,10 @@
 body {
-	font-size: 16px;
+    font-size: 16px;
     color: #000;
     font-family: "Arial";
     line-height: 1.2;
     min-width: 320px;
+    background-image: url(clouds.png);
 }
 div {
 	font-size: 16px;
@@ -16,7 +17,7 @@ div {
     width: 360px;
 }
 .first:first-letter {
-    font-family: "Times New Roman", Times, serif; /* Гарнитура шрифта первой буквы */
-    font-size: 200%; /* Размер шрифта первого символа */
-    color: red; /* Красный цвет текста */
+    font-family: "Times New Roman", Times, serif; /* ГѓГ Г°Г­ГЁГІГіГ°Г  ГёГ°ГЁГґГІГ  ГЇГҐГ°ГўГ®Г© ГЎГіГЄГўГ» */
+    font-size: 200%; /* ГђГ Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  ГЇГҐГ°ГўГ®ГЈГ® Г±ГЁГ¬ГўГ®Г«Г  */
+    color: red; /* ГЉГ°Г Г±Г­Г»Г© Г¶ГўГҐГІ ГІГҐГЄГ±ГІГ  */
 }
