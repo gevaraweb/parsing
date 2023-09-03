@@ -4,7 +4,7 @@ body {
     font-family: "Arial";
     line-height: 1.2;
     min-width: 320px;
-    background-image: url(vkletku.png);
+    background-image: url(vlineiku.jpg);
 }
 div {
 	font-size: 16px;
@@ -17,7 +17,7 @@ div {
     width: 360px;
 }
 .first:first-letter {
-    font-family: "Times New Roman", Times, serif; /* Ãàðíèòóðà øðèôòà ïåðâîé áóêâû */
-    font-size: 200%; /* Ðàçìåð øðèôòà ïåðâîãî ñèìâîëà */
-    color: red; /* Êðàñíûé öâåò òåêñòà */
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    color: red; 
 }
