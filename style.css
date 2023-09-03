@@ -4,7 +4,7 @@ body {
     font-family: "Arial";
     line-height: 1.2;
     min-width: 320px;
-    padding: 0px 0px 0px 32px;
+    padding: 0px 0px 0px 128px;
     background-image: url(vlineiku.jpg);
 }
 div {
