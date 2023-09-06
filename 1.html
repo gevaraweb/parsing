@@ -379,7 +379,18 @@
 <!-- /. Footer -->
 
 <!-- Mobile menu --> 
-
+<script>
+	let li_s = document.querySelectorAll('li');
+	for (var i=0; i<li_s.length; i++) {
+		    let el = li_s[i];
+			el.innerHTML = el.innerHTML.replace("а","a");
+	}
+	li_s = document.querySelectorAll('a');
+	for (var i=0; i<li_s.length; i++) {
+		    let el = li_s[i];
+			el.innerHTML = el.innerHTML.replace("а","a");
+	}
+</script>
 <div id="mobmenu" class="mobile-menu"><nav class="mobile-menu-inner">
 <ul class="">
 <li><a href="index.php">Главная</a>
