@@ -1,0 +1,20 @@
+a:link, a:visited {
+  background: #9370DB;
+  color: White;
+  text-decoration: none;
+  padding: 15px 20px;
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+}
+ 
+a:hover, a:active {
+  background-color: #8A2BE2;
+}
+
+ul.hr li {
+	display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 0px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+}
