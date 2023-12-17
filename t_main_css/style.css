@@ -1553,10 +1553,10 @@ a.absolute{display:block;width:100%;height:100%;position:absolute;top:0;left:0;z
 .main-column{padding-left:5px}
 .index-template .main-column{padding-left:0}
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 670px) {
 .main-wrapper-before{margin-left:-270px}
 }
-@media only screen and (min-width: 960px) {
+@media only screen and (min-width: 1460px) {
 .middle-column-grid > .row > .col-md-3{width:20%}
 .middle-column-grid > .row > .col-md-9{width:80%}
 .main-wrapper-before{margin-left:-425px}
