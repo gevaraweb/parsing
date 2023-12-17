@@ -260,7 +260,7 @@ hr{margin-top:20px;margin-bottom:20px;border-top:1px solid #E9E9E9}
 .col-md-6{width:50%}
 .col-md-5{width:41.66666667%}
 .col-md-4{width:33.33333333%}
-.col-md-3{width:10%}
+.col-md-3{width:25%}
 .col-md-2{width:16.66666667%}
 .col-md-1{width:8.33333333%}
 .col-md-pull-12{right:100%}
@@ -1556,8 +1556,8 @@ a.absolute{display:block;width:100%;height:100%;position:absolute;top:0;left:0;z
 @media only screen and (min-width: 1170px) {
 .main-wrapper-before{margin-left:-270px}
 }
-@media only screen and (min-width: 1460px) {
-.middle-column-grid > .row > .col-md-3{width:5%}
+@media only screen and (min-width: 960px) {
+.middle-column-grid > .row > .col-md-3{width:20%}
 .middle-column-grid > .row > .col-md-9{width:80%}
 .main-wrapper-before{margin-left:-425px}
 }
