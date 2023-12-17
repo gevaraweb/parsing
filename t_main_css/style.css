@@ -249,7 +249,7 @@ hr{margin-top:20px;margin-bottom:20px;border-top:1px solid #E9E9E9}
 .col-sm-offset-1{margin-left:8.33333333%}
 .col-sm-offset-0{margin-left:0}
 }
-@media (min-width:992px) {
+@media (min-width:692px) {
 .col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9{float:left}
 .col-md-12{width:100%}
 .col-md-11{width:91.66666667%}
